@@ -20,3 +20,7 @@ variable "private_key_name" {
   type = string
   default = "splunk-key"
 }
+variable "novm" {
+  type = number
+  
+}

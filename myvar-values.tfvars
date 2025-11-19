@@ -1,5 +1,5 @@
-my-os-image = "ami-0cae6d6fe6048ca2c"
 machine_type = "t2.nano"
 my_aws_region = "us-east-1"
 private_key_name = "splunk-key"
-vm_name = "johanvm-day2"
+vm_nmy-os-image = "ami-0cae6d6fe6048ca2c"
+ame = "johanvm-day2"
